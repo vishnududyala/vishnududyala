@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- SECTION E: VISITOR COUNTER -->
-[![Profile Views](https://komarev.com/ghpvc/?username=vishnududyala&color=blue&style=flat-square&label=Profile+Views)](https://github.com/vishnududyala)
 
 <!-- SECTION A: ANIMATED HEADER -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
