@@ -15,7 +15,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-I'm a **Data Analyst with 3+ years of experience** transforming complex datasets into actionable business insights across **customer analytics**, **supply chain optimization**, and **business intelligence**. I specialize in building end-to-end data pipelines, interactive dashboards, and scalable analytical solutions.
+I'm a **Data Analyst with 2+ years of experience** transforming complex datasets into actionable business insights across **customer analytics**, **supply chain optimization**, and **business intelligence**. I specialize in building end-to-end data pipelines, interactive dashboards, and scalable analytical solutions.
 
 > 💡 My expertise spans **SQL, Python, Power BI, Tableau, AWS**, and **Snowflake** — bridging the gap between raw data and strategic decision-making.
 
